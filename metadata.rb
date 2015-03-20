@@ -6,8 +6,6 @@ description      'Installs/Configures remote_syslog2'
 long_description 'Installs/Configures remote_syslog2'
 version          '0.2.2'
 
-supports 'ubuntu'
-
 recipe 'remote_syslog2', 'Installs/Configures remote_syslog2'
 recipe 'remote_syslog2::configure', 'Generates config file for remote_syslog2'
 recipe 'remote_syslog2::install', 'Installs remote_syslog2'
