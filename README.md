@@ -5,7 +5,8 @@ Installs and configures [remote_syslog2](https://github.com/papertrail/remote_sy
 Requirements
 ------------
 ### Platforms
-- Ubuntu (tested using 14.04)
+- RHEL
+- Ubuntu (untested but worked with unmodified version)
 
 Attributes
 ----------
@@ -49,4 +50,4 @@ Generally all you have to do to use this cookbook is add the default recipe to y
 
 License and Authors
 -------------------
-Author:: Jeff Way (<jeff.way@me.com>)
+Author:: Tony F (<anthony.faoro@newellco.com>)

@@ -1,6 +1,6 @@
 name             'remote_syslog2'
-maintainer       'Jeff Way'
-maintainer_email 'jeff.way@me.com'
+maintainer       'Tony F'
+maintainer_email 'anthony.faoro@newellco.com'
 license          'Apache 2.0'
 description      'Installs/Configures remote_syslog2'
 long_description 'Installs/Configures remote_syslog2'
