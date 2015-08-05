@@ -5,6 +5,5 @@ end
 
 service 'remote_syslog2' do
   supports restart: true, status: true
-  action [:restart, :enable]
-  not_if 'pidof remote_syslog2'
+  action [:start, :enable]
 end
